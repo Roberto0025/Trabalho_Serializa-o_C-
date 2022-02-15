@@ -1,0 +1,12 @@
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\bin\Debug\Trab.exe.config
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\bin\Debug\Trab.exe
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\bin\Debug\Trab.pdb
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\obj\Debug\Trab.Form1.resources
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\obj\Debug\Trab.Properties.Resources.resources
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\obj\Debug\Trab.csproj.GenerateResource.cache
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\obj\Debug\Trab.csproj.CoreCompileInputs.cache
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\obj\Debug\Trab.exe
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\obj\Debug\Trab.pdb
+C:\Users\Beto\Desktop\Nova pasta\Trab\Trab\obj\Debug\Trab.csproj.AssemblyReference.cache
